@@ -4,4 +4,4 @@ tags checking to see whether or not the user is authenticated. The application u
 requests to the API. Word document contains instructions on how to build the application should you want to build the application yourself with instructions.  
 
 ## Sites uploaded too
-- More to come :)
+- https://dev.to/john_mason_1639504125deba/office-365-authentication-and-authorization-with-asp-net-core-web-api-and-with-a-separate-javascript-frontend-1ah9
