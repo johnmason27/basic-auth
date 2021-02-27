@@ -1,5 +1,5 @@
 # basic-auth
-Simple Office 365 authentication sample to load a user in and get there username.
+Simple Office 365 authentication sample to login a user and fetch their username.
 
 ## Contains
 - ASP.NET Core Web API with controllers to log a user in and get the current user.
