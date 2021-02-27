@@ -13,5 +13,6 @@ Simple Office 365 authentication sample to load a user in and get there username
 ## Tutorial uploaded to
 Dev Community:
 - https://dev.to/john_mason_1639504125deba/office-365-authentication-and-authorization-with-asp-net-core-web-api-and-with-a-separate-javascript-frontend-1ah9
+
 Medium:
 - https://jjnrmason.medium.com/office-365-authentication-and-authorization-with-asp-net-c9f1782b5461
