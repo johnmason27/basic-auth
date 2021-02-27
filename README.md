@@ -8,3 +8,4 @@ Word document contains instructions on how to build the application should you w
 
 ## Sites uploaded too
 - https://dev.to/john_mason_1639504125deba/office-365-authentication-and-authorization-with-asp-net-core-web-api-and-with-a-separate-javascript-frontend-1ah9
+- https://jjnrmason.medium.com/office-365-authentication-and-authorization-with-asp-net-c9f1782b5461
